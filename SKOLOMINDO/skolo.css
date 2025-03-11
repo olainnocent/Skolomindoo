@@ -1,0 +1,169 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    border-radius: 0px;
+    background-image: url(./d608f2f4-4c5a-44c7-950e-2c248c787f3e.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+.sk1{
+    width: 150px;
+    height: 150px;
+    position: absolute;
+    margin-left: 60px;
+    margin-top: 40px;
+    border-radius: 40px;
+}
+
+
+.sk2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+    color: white;
+    position: absolute;
+    margin-top: 30px;
+    margin-left: 500px;
+}
+
+
+.sk3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    margin-top: 85px;
+    margin-left: 580px;
+}
+
+
+.SK4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(8, 218, 120);
+    position: absolute;
+    margin-top: 130px;
+    margin-left: -20%;
+}
+
+
+.sk5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(224, 124, 9);
+    position: absolute;
+    margin-top: 340px;
+    margin-left: 540px;
+}
+
+
+
+.sk6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
+    position: absolute;
+    margin-top: 400px;
+    margin-left: 420px;
+}
+
+
+
+.sk7{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    color: rgb(231, 100, 47);
+    position: absolute;
+    margin-top: 480px;
+    margin-left: 500px;
+}
+
+
+.sk8{
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    margin-top: 580px;
+    margin-left: 150px;
+}
+
+
+
+.sk9{
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    margin-top: 580px;
+    margin-left: 550px;
+}
+
+
+.sk10{
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    margin-top: 580px;
+    margin-left: 950px;
+}
+
+
+.sk11{
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    margin-top: 1080px;
+    margin-left: 550px;
+}
+
+
+
+.sk12{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    margin-top: 1530px;
+    margin-left: 560px;
+}
+
+
+.sk13{
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    margin-top: 1650px;
+    margin-left: 550px;
+}
+
+
+
+.sk14{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    margin-top: 2100px;
+    margin-left: 510px;
+}
+
+
+.sk15{
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    margin-top: 2200px;
+    margin-left: 550px;
+}
+
+
+.sk16{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: white;
+    position: absolute;
+    margin-top: 2650px;
+    margin-left: 570px;
+}
